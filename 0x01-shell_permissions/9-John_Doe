@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld hello |sed -e 's/ .*//'
+chmod 753 hello
